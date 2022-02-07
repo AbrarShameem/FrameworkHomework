@@ -11,6 +11,7 @@
       <set>
         <option value="$PROJECT_DIR$/Facebook/pom.xml" />
         <option value="$PROJECT_DIR$/Instagram/pom.xml" />
+        <option value="$PROJECT_DIR$/practice/pom.xml" />
       </set>
     </option>
   </component>
